@@ -1,6 +1,13 @@
 .header-content{
+    margin: 0 auto;
     width: 100%;
-    height: 80px;
-    background-color: rgba(54,52,52,0.56);
-    border-bottom: green 3px;
+    height: 60px;
+    background-color: rgba(128, 43, 159, 0.83);
+    border-bottom: 3px solid green;
+}
+.header-content img{
+    width: 45px;
+    height: 45px;
+    padding-left: 5px;
+    padding-top: 5px;
 }

@@ -1,0 +1,23 @@
+*{
+    margin: 0 auto;
+}
+body{
+    background: #6c757d;
+}
+.main-content-block{
+    display: inline-block;
+    justify-content: left;
+    height: 1080px;
+    width: 100%;
+}
+.slidebar{
+    width: 18%;
+    height: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    overflow-y: scroll;
+}
+.main-content-information{
+    width: 100%;
+    height: 100%;
+}
