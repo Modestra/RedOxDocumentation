@@ -2,12 +2,27 @@
     margin: 0 auto;
     width: 100%;
     height: 60px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
     background-color: rgba(128, 43, 159, 0.83);
     border-bottom: 3px solid green;
 }
 .header-content img{
-    width: 45px;
-    height: 45px;
+    width: 50px;
+    height: 50px;
+    margin-left: 0;
     padding-left: 5px;
     padding-top: 5px;
+    margin-right: 2px;
+}
+.header-content a{
+    margin-right: 100px;
+    margin-left: 10px;
+    line-height: 55px;
+    font-size: 20px;
+}
+.header-title{
+    margin-left: 2px;
+    font-size: 35px;
 }

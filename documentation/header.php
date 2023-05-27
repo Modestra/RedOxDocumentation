@@ -9,9 +9,13 @@
     <link rel="stylesheet" href="styles/headStyle.css">
     <link rel="stylesheet" href="styles/mainStyle.css">
     <link rel="stylesheet" href="styles/footerStyle.css">
-    <title>Document</title>
+    <title>RedOx</title>
 </head>
 <body>
-    <header class="header-content d-flex justify-content-between">
-       <img src="images/header/explosive.png">
+    <header class="header-content">
+        <img src="images/header/explosive.png">
+        <p class="header-title">RedOx</p>
+        <a>Документация</a>
+        <a>Документация</a>
+        <a>Документация</a>
     </header>
